@@ -1,0 +1,42 @@
+{
+  "background_selected": {
+    "$type": "color",
+    "$value": "#FFFFFF",
+    "$extensions": {
+      "figma": {
+        "scopes": [
+          "FRAME_FILL"
+        ],
+        "codeSyntax": {},
+        "hiddenFromPublishing": false
+      }
+    }
+  },
+  "background_selected 2": {
+    "$type": "color",
+    "$value": "#F0CCCC",
+    "$extensions": {
+      "figma": {
+        "scopes": [
+          "STROKE_COLOR",
+          "EFFECT_COLOR"
+        ],
+        "codeSyntax": {},
+        "hiddenFromPublishing": false
+      }
+    }
+  },
+  "background_selected 3": {
+    "$type": "color",
+    "$value": "#BC4848",
+    "$extensions": {
+      "figma": {
+        "scopes": [
+          "FRAME_FILL"
+        ],
+        "codeSyntax": {},
+        "hiddenFromPublishing": false
+      }
+    }
+  }
+}
